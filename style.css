@@ -1,0 +1,109 @@
+Header .menu {
+    display: flex;
+    margin-left: 400px;
+    gap: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #7D7D7D;
+}
+
+.nr1 {
+    color: rgb(7, 87, 153);
+}
+
+/* ========================section_1=========================== */
+.section_1-wrap {
+    display: flex;
+    margin-left: 310px;
+    margin-top: 90px;
+    gap: 65px;
+}
+
+.section_1-text {
+    width: 420px;
+}
+
+.LIFESTYLE {
+    margin-top: 64px;
+    color: #B4AD9E;
+}
+
+.text_1 {
+    margin-top: 40px;
+    color: #626262;
+}
+
+.text_2 {
+    margin-top: 55px;
+    color: #626262;
+}
+
+/* =========================section_2========================= */
+.section_2-wrap {
+    display: flex;
+    margin-left: 310px;
+    margin-top: 90px;
+    gap: 65px;
+}
+
+.section_2-text {
+    width: 420px;
+}
+
+.PHOTODAIRY {
+    margin-top: 64px;
+    color: #B4AD9E;
+}
+
+.text_3 {
+    margin-top: 40px;
+    color: #626262;
+}
+
+.text_4 {
+    margin-top: 55px;
+    color: #626262;
+}
+
+/* =========================section_3========================= */
+.section_3-wrap {
+    display: flex;
+    margin-left: 310px;
+    margin-top: 90px;
+    gap: 65px;
+}
+
+.section_3-text {
+    width: 420px;
+}
+
+.LIFESTYLE {
+    margin-top: 64px;
+    color: #B4AD9E;
+}
+
+.text_5 {
+    margin-top: 40px;
+    color: #626262;
+}
+
+.text_6 {
+    margin-top: 55px;
+    color: #626262;
+}
+
+.butten {
+    width: 165px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: 680px;
+}
